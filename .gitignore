@@ -1,0 +1,6 @@
+.idea
+/results
+*.xml
+*.log
+*.html
+.env
